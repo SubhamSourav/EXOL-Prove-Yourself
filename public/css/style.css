@@ -7187,7 +7187,7 @@ footer .footer-bottom.bg-light p {
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background: url(assets/img/preloader.gif) center no-repeat #fff;
+  background: url(../img/preloader.gif) center no-repeat #fff;
   text-align: center;
 }
 
